@@ -1,0 +1,66 @@
+
+.txt{
+    text-align:center;
+    margin-top: 150px;
+    
+
+
+}
+
+
+.menu {
+  width: 100%; 
+  position: fixed;
+  padding: 0 3rem;
+  top: 0;
+  left: 0;
+background-color: rgb(78, 202, 161);
+
+
+}
+
+.menu a {
+margin: 0 1rem;
+text-decoration: none;
+padding: 1rem .5rem;
+
+
+}
+
+
+.container
+{
+position: relative;
+display: flex;
+flex-direction: wrap;
+
+}
+
+.container .boxS
+{
+position: relative;
+width: 400px;
+height: 200px;
+margin: 10px 0;
+background: rgb(255, 255, 255) ;
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+}
+
+
+.container .boxS
+{
+box-shadow: -30px 30px 20px rgba(0,0,0,0.3)
+}
+
+
+
+.navbar-inverse
+{
+background: rosybrown;
+
+
+}
